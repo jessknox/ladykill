@@ -62,7 +62,6 @@ img {
 
 .syringe-gif{
   width:100%;
-  /* border: 2px solid yellow; */
 /* position: relative;
 top: 0px; */
 object-position: 50% 50%;
@@ -70,13 +69,11 @@ object-position: 50% 50%;
 
 .axe-gif{
   width:100%;
-  /* border: 2px solid purple; */
   position: relative;
   top: 0px;
   /* transform: scale(1.5,1.5); */
 }
 
 .knife-gif{
-  /* border: 2px solid blue; */
   width: 65%;
 }
